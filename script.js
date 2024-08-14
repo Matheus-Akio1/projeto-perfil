@@ -3,7 +3,7 @@ function toggleMode () {
 
     html.classList.toggle('light')
 
-    const img = document.querySelector('#profile img')
+    //const img = document.querySelector('#profile img')
     
     // Caso queira trocar a imagem so usar esse script
     //if (html.classList.contains('light')) {
